@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pgzBRwg/3MSmmEU7bPrCXWVYhIMTgKa77Cw3RD7WSKI5sFtrx3j8y5/efx7kFlQDZhJBd6oXlZQHFtg6pZrqYw==",
+  "dgSpecHash": "4sl+tpn8FGkgU0BXNZVL2AqUGE8FAaO1YdtguJ0zWwmUte+HlrZnCz3DQkmHRLp4Dhbm2sFWXzhGF48fZb8R/w==",
   "success": true,
   "projectFilePath": "/Users/camerongrondines/Desktop/Professional/Portfolio/KEYSYS/MockWebService/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/camerongrondines/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512",
     "/Users/camerongrondines/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/camerongrondines/.nuget/packages/microsoft.office.interop.excel/15.0.4795.1001/microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
     "/Users/camerongrondines/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/camerongrondines/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "/Users/camerongrondines/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",

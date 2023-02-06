@@ -25,3 +25,5 @@
 /Users/camerongrondines/Desktop/Professional/Portfolio/KEYSYS/MockWebService/API/obj/Debug/net6.0/API.pdb
 /Users/camerongrondines/Desktop/Professional/Portfolio/KEYSYS/MockWebService/API/obj/Debug/net6.0/API.genruntimeconfig.cache
 /Users/camerongrondines/Desktop/Professional/Portfolio/KEYSYS/MockWebService/API/obj/Debug/net6.0/ref/API.dll
+/Users/camerongrondines/Desktop/Professional/Portfolio/KEYSYS/MockWebService/API/bin/Debug/net6.0/Microsoft.Office.Interop.Excel.dll
+/Users/camerongrondines/Desktop/Professional/Portfolio/KEYSYS/MockWebService/API/bin/Debug/net6.0/CsvHelper.dll
