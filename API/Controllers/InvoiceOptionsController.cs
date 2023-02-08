@@ -20,7 +20,6 @@ namespace API.Controllers
                     csvReader.Context.RegisterClassMap<InvoiceOptionClassMap>();
                     records = csvReader.GetRecords<InvoiceOption>().ToList();
                 }
-                //https://www.youtube.com/watch?v=IT8bT3NsaRg
             }
         }
 

@@ -1,0 +1,14 @@
+.navbar-custom {
+    background-color: rgb(41, 56, 70);
+    margin-bottom: 2%;
+}
+ 
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: white;
+}
+
+.search-label{
+    padding-right: 1%;
+}
+
